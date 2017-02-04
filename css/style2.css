@@ -1,0 +1,254 @@
+body{
+    font-family: "Palatino Linotype", "Book Antiqua", Palatino, serif; 
+    background: url("https://janitmodi97.github.io/janitA032/css/foodanimated.gif") center;
+    
+    color: black;
+    background-attachment: fixed;
+    background-position: center;
+}
+h2{
+	color: purple;
+	font-family: arial;
+	font-size: 200%;
+}
+h1
+{
+	color: purple;
+	font-family: arial;
+	font-size: 400%;
+}
+table{
+  margin-left: 450px;
+}
+table a:link, a:visited  {
+  
+  text-decoration: none;
+  background-color: yellow;
+  border: 2px solid blue;
+  color: black;
+  display: block;
+  width: 200px;
+  text-align: center;
+  margin-bottom: 1px;
+  /*float: center;*/
+  
+}
+
+table a:hover, a:active{
+background-color: lightblue;
+  color: red;
+}
+
+td{
+	background-color: yellow;
+}
+th{
+	background-color: pink;
+}
+
+nav{
+font-style: bold;
+background-color: lightblue;
+}
+
+article{
+  width: 50%;
+  border: 1px solid black;
+  padding: 10px;
+  font-weight: bolder;
+  background-color: teal;
+
+}
+
+image{
+  width: 50%;
+}
+
+#a1{
+  float: left;
+  height: 280px;
+
+}
+
+#i1{
+  border: 1px solid black;
+  clear: left;
+  width: 540px;
+}
+
+
+#a2{
+  float: left;
+  height: 280px;
+}
+
+#i2{
+  border: 1px solid black;
+  clear: left;
+  width: 540px;
+}
+
+
+#a3{
+  float: left;
+  height: 280px;
+}
+
+#i3{
+  border: 1px solid black;
+  clear: left;
+  width: 540px;
+}
+
+
+#a4{
+  float: left;
+  height: 180px;
+}
+
+#i4{
+  border: 1px solid black;
+  clear: left;
+  width: 540px;
+}
+
+
+#a5{
+  float: left;
+  height: 180px;
+}
+
+#i5{
+  border: 1px solid black;
+  clear: left;
+  width: 540px;
+}
+
+#a6{
+  float: left;
+  height: 190px;
+}
+
+#i6{
+  border: 1px solid black;
+  clear: left;
+  width: 540px;
+}
+
+#a7{
+  float: left;
+  height: 180px;
+}
+
+#i7{
+  border: 1px solid black;
+  clear: left;
+  width: 540px;
+}
+
+footer, aside{
+  background-color: magenta;
+}
+
+
+#box1{
+  background-color: orange;
+  padding: 10px;
+  border: 5px solid black;
+  width: 120px;
+  height: 50px;
+  margin-top: 50px;
+  margin-left: 550px;
+  margin-bottom: 10px;
+}
+
+#box2{
+  background-color: orange;
+  padding: 10px;
+  border: 5px solid black;
+  width: 140px;
+  height: 50px;
+  margin-top: 50px;
+  margin-left: 550px;
+  margin-bottom: 10px;
+}
+
+#box3{
+  background-color: orange;
+  padding: 10px;
+  border: 5px solid black;
+  width: 280px;
+  height: 50px;
+  margin-top: 50px;
+  margin-left: 500px;
+  margin-bottom: 10px;
+}
+
+#box4{
+  background-color: orange;
+  padding: 10px;
+  border: 5px solid black;
+  width: 100px;
+  height: 50px;
+  margin-top: 50px;
+  margin-left: 550px;
+  margin-bottom: 10px;
+}
+
+#box5{
+  background-color: orange;
+  padding: 10px;
+  border: 5px solid black;
+  width: 400px;
+  height: 50px;
+  margin-top: 50px;
+  margin-left: 400px;
+  margin-bottom: 10px;
+}
+
+#box6{
+  background-color: orange;
+  padding: 10px;
+  border: 5px solid black;
+  width: 170px;
+  height: 50px;
+  margin-top: 50px;
+  margin-left: 550px;
+  margin-bottom: 10px;
+}
+
+#box7{
+  background-color: orange;
+  padding: 10px;
+  border: 5px solid black;
+  width: 280px;
+  height: 50px;
+  margin-top: 50px;
+  margin-left: 500px;
+  margin-bottom: 10px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

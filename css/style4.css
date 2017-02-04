@@ -1,0 +1,71 @@
+body{
+    font-family: "Times New Roman", Times, serif; 
+    background: url("https://janitmodi97.github.io/janitA032/css/original.gif") no-repeat center ;
+    color: black;
+    background-size: 1230px;
+    background-blend-mode: color-dodge;
+    background-attachment: fixed;
+    border-radius: 8px;
+    border: 3px solid rgb(66,29,16);
+    padding: 1px;
+
+
+
+}
+h2{
+	color: black;
+	font-family: georgia, serif ;
+	font-size: 200%;
+  
+}
+h1
+{
+	color: black;
+	font-family: "Times New Roman", Times, serif;
+	font-size: 400%;
+}
+table a:link, a:visited  {
+  
+  text-decoration: wavy;
+  background-color: grey;
+  border: 2px solid black;
+  color:black;
+  display: block;
+  width: 200px;
+  text-align: center;
+  margin-bottom: 1px;
+  
+  
+}
+
+table a:hover, a:active{
+background-color: lightblue;
+  color: pink;
+  
+}
+section {
+  
+}
+
+td{
+	background-color: darkgrey;
+  
+}
+th{
+	background-color: red;
+
+}
+.blue{
+	background-color: gray;
+}
+nav{
+font-style: bold;
+background-color: gray;
+}
+footer{
+  color: orange;
+  float: center;
+}
+aside{
+  color:green;
+}

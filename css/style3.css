@@ -1,0 +1,138 @@
+body{
+    font-family: "Times New Roman", Times, serif; 
+    background: url("https://janitmodi97.github.io/janitA032/css/idiva_06.gif") no-repeat center ;
+    color: black;
+    background-size: 1500px;
+    background-attachment: fixed;
+
+
+
+}
+h2{
+	color: orange;
+	font-family: georgia, serif ;
+	font-size: 200%;
+  
+}
+h1
+{
+	color: orange;
+	font-family: "Times New Roman", Times, serif;
+	font-size: 400%;
+}
+table a:link, a:visited  {
+  
+  text-decoration: wavy;
+  background-color: pink;
+  border: 2px solid blue;
+  color: black;
+  display: block;
+  width: 200px;
+  text-align: center;
+  margin-bottom: 1px;
+  
+}
+
+table a:hover, a:active{
+background-color: lightblue;
+  color: orange;
+}
+
+tr{
+	background-color: pink;
+}
+th{
+	background-color: orange;
+}
+.blue{
+	background-color: lightyellow;
+}
+nav{
+font-style: bold;
+background-color: lightyellow;
+}
+footer{
+  color: orange;
+}
+
+aside{
+  background-color: white;
+  color: hotpink;
+}
+
+#box1{
+  background-color: orange;
+  padding: 10px;
+  border: 5px solid black;
+  width: 140px;
+  height: 50px;
+  margin-top: 50px;
+  margin-left: 550px;
+  margin-bottom: 10px;
+}
+
+#box2{
+  background-color: orange;
+  padding: 10px;
+  border: 5px solid black;
+  width: 140px;
+  height: 50px;
+  margin-top: 50px;
+  margin-left: 550px;
+  margin-bottom: 10px;
+}
+
+#box3{
+  background-color: orange;
+  padding: 10px;
+  border: 5px solid black;
+  width: 350px;
+  height: 50px;
+  margin-top: 50px;
+  margin-left: 500px;
+  margin-bottom: 10px;
+}
+
+#box4{
+  background-color: orange;
+  padding: 10px;
+  border: 5px solid black;
+  width: 100px;
+  height: 50px;
+  margin-top: 50px;
+  margin-left: 550px;
+  margin-bottom: 10px;
+}
+
+#box5{
+  background-color: orange;
+  padding: 10px;
+  border: 5px solid black;
+  width: 450px;
+  height: 50px;
+  margin-top: 50px;
+  margin-left: 400px;
+  margin-bottom: 10px;
+}
+
+#box6{
+  background-color: orange;
+  padding: 10px;
+  border: 5px solid black;
+  width: 170px;
+  height: 50px;
+  margin-top: 50px;
+  margin-left: 550px;
+  margin-bottom: 10px;
+}
+
+#box7{
+  background-color: orange;
+  padding: 10px;
+  border: 5px solid black;
+  width: 350px;
+  height: 50px;
+  margin-top: 50px;
+  margin-left: 500px;
+  margin-bottom: 10px;
+}
