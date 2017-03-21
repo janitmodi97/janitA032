@@ -1,5 +1,4 @@
-
-    //.getElementById("content")
+//.getElementById("content")
   //.textContent = message;
 
 document.getElementById('submit').onclick = compare;
@@ -15,17 +14,23 @@ function compare() {
   b = parseFloat(b);
   
   // Set up a variable to store the comparison operator
-  var comparison;
+  var comparison, display;
   
   // TODO: Set `comparison` string based on relationship between a and b
   if(a > b) {
-    comparison = ' is greater than';
+    comparison = ' >';
+    display =  "<h4> " +a+  " is greater than " + b +  "</h4>"; 
+    document.getElementById("result").innerHTML = display;
     
   } else if(a < b) {
-    comparison = ' is lesser than';
+    comparison = ' <';
+    display =  "<h4>" +a+  " is lesser than " + b +  "</h4>"; 
+    document.getElementById("result").innerHTML = display;
      
   } else {
-    comparison = 'equal to';
+    comparison = '=';
+    display =  "<h4>" +a+  " is equal to " + b +  "</h4>"; 
+    document.getElementById("result").innerHTML = display;
      
   }
   
@@ -33,3 +38,4 @@ function compare() {
   document.getElementById('comparison').innerHTML = comparison;
   
 }
+    
