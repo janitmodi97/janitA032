@@ -1,1 +1,10 @@
-
+{
+  "Student1_Name": "Janit",
+  "lastName1": "Modi",
+  "likesPunjabiFood": true
+  
+  	{
+  	"Student2_Name" : "Jon",
+  "lastName2": "Snow",
+  "likesPunjabiFood": false
+}
